@@ -10,3 +10,6 @@
 [submodule "typescript-template"]
 	path = typescript-template
 	url = git@github.com:tana-gh/typescript-template.git
+[submodule "react-template"]
+	path = react-template
+	url = git@github.com:tana-gh/react-template.git
