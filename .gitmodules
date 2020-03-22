@@ -19,3 +19,6 @@
 [submodule "svelte-template"]
 	path = svelte-template
 	url = git@github.com:tana-gh/svelte-template.git
+[submodule "cycle-template"]
+	path = cycle-template
+	url = git@github.com:tana-gh/cycle-template.git
