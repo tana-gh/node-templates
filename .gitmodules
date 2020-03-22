@@ -16,3 +16,6 @@
 [submodule "vue-template"]
 	path = vue-template
 	url = git@github.com:tana-gh/vue-template.git
+[submodule "svelte-template"]
+	path = svelte-template
+	url = git@github.com:tana-gh/svelte-template.git
