@@ -22,3 +22,6 @@
 [submodule "cycle-template"]
 	path = cycle-template
 	url = git@github.com:tana-gh/cycle-template.git
+[submodule "three-template"]
+	path = three-template
+	url = git@github.com:tana-gh/three-template.git
