@@ -13,3 +13,6 @@
 [submodule "react-template"]
 	path = react-template
 	url = git@github.com:tana-gh/react-template.git
+[submodule "vue-template"]
+	path = vue-template
+	url = git@github.com:tana-gh/vue-template.git
