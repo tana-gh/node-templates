@@ -25,3 +25,6 @@
 [submodule "three-template"]
 	path = three-template
 	url = git@github.com:tana-gh/three-template.git
+[submodule "electron-template"]
+	path = electron-template
+	url = git@github.com:tana-gh/electron-template.git
