@@ -28,3 +28,6 @@
 [submodule "electron-template"]
 	path = electron-template
 	url = git@github.com:tana-gh/electron-template.git
+[submodule "elm-template"]
+	path = elm-template
+	url = git@github.com:tana-gh/elm-template.git
