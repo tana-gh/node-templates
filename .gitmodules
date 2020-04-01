@@ -31,3 +31,6 @@
 [submodule "elm-template"]
 	path = elm-template
 	url = git@github.com:tana-gh/elm-template.git
+[submodule "purescript-template"]
+	path = purescript-template
+	url = git@github.com:tana-gh/purescript-template.git
